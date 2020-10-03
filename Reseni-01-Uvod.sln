@@ -3,25 +3,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010-Pozdrav", "010-Pozdrav\010-Pozdrav.csproj", "{B0E6686B-B2AE-4EE4-9D69-7248DB5FD03F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "010-Pozdrav", "010-Pozdrav\010-Pozdrav.csproj", "{B0E6686B-B2AE-4EE4-9D69-7248DB5FD03F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "020-Nej_skola", "020-Nej_skola\020-Nej_skola.csproj", "{3A9D680B-E90F-4284-B731-1601CEC165BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "020-Nej_skola", "020-Nej_skola\020-Nej_skola.csproj", "{3A9D680B-E90F-4284-B731-1601CEC165BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "030-Domaci_vs_hoste", "030-Domaci_vs_hoste\030-Domaci_vs_hoste.csproj", "{AD39FBB9-0E52-4F93-9EEC-9B85AA55EC7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "030-Domaci_vs_hoste", "030-Domaci_vs_hoste\030-Domaci_vs_hoste.csproj", "{AD39FBB9-0E52-4F93-9EEC-9B85AA55EC7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "040-Datove_typy", "040-Datove_typy\040-Datove_typy.csproj", "{B09C2210-9687-4A55-8F9D-5FD14D449038}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "040-Datove_typy", "040-Datove_typy\040-Datove_typy.csproj", "{B09C2210-9687-4A55-8F9D-5FD14D449038}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "050-Obsah_ctverce", "050-Obsah_ctverce\050-Obsah_ctverce.csproj", "{57D9ED1E-A832-456F-8AB7-F988B652380D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "050-Obsah_ctverce", "050-Obsah_ctverce\050-Obsah_ctverce.csproj", "{57D9ED1E-A832-456F-8AB7-F988B652380D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "060-Objem_a_povrch_kvadru", "060-Objem_a_povrch_kvadru\060-Objem_a_povrch_kvadru.csproj", "{C76A2D5B-092D-4022-A2EC-C8DADD731A69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "060-Objem_a_povrch_kvadru", "060-Objem_a_povrch_kvadru\060-Objem_a_povrch_kvadru.csproj", "{C76A2D5B-092D-4022-A2EC-C8DADD731A69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "070-Obvod_a_obsah_kruhu", "070-Obvod_a_obsah_kruhu\070-Obvod_a_obsah_kruhu.csproj", "{7D7479B8-90FF-4F07-8E76-762CF0F675DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "070-Obvod_a_obsah_kruhu", "070-Obvod_a_obsah_kruhu\070-Obvod_a_obsah_kruhu.csproj", "{7D7479B8-90FF-4F07-8E76-762CF0F675DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "080-Pythagorova_veta", "080-Pythagorova_veta\080-Pythagorova_veta.csproj", "{DEB40688-2630-4FE7-98F8-6D73E2A4DD7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "080-Pythagorova_veta", "080-Pythagorova_veta\080-Pythagorova_veta.csproj", "{DEB40688-2630-4FE7-98F8-6D73E2A4DD7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "090-Vymena_karet", "090-Vymena_karet\090-Vymena_karet.csproj", "{F1077DD6-2A37-4B23-BB05-88F38856CF15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "090-Vymena_karet", "090-Vymena_karet\090-Vymena_karet.csproj", "{F1077DD6-2A37-4B23-BB05-88F38856CF15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100-Nakupni_kosik", "100-Nakupni_kosik\100-Nakupni_kosik.csproj", "{FEF3CC43-9528-4525-86A1-EFDCB052AA19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "100-Nakupni_kosik", "100-Nakupni_kosik\100-Nakupni_kosik.csproj", "{FEF3CC43-9528-4525-86A1-EFDCB052AA19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "110-Rozbite_deleni", "110-Rozbite_deleni\110-Rozbite_deleni.csproj", "{B4890078-20C8-490F-9247-2106483F595B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "120-Heronuv_vzorec", "120-Heronuv_vzorec\120-Heronuv_vzorec.csproj", "{282CCF86-9AA7-41D9-9CEE-6969E3403CD4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{FEF3CC43-9528-4525-86A1-EFDCB052AA19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEF3CC43-9528-4525-86A1-EFDCB052AA19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEF3CC43-9528-4525-86A1-EFDCB052AA19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4890078-20C8-490F-9247-2106483F595B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4890078-20C8-490F-9247-2106483F595B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4890078-20C8-490F-9247-2106483F595B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4890078-20C8-490F-9247-2106483F595B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{282CCF86-9AA7-41D9-9CEE-6969E3403CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{282CCF86-9AA7-41D9-9CEE-6969E3403CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{282CCF86-9AA7-41D9-9CEE-6969E3403CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{282CCF86-9AA7-41D9-9CEE-6969E3403CD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
