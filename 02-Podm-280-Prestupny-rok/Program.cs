@@ -31,6 +31,7 @@ namespace _02_Podm_280_Prestupny_rok
                 Console.WriteLine($"Rok {rok} není přestupný");
             }
 
+            // a nebo najednou 
 
             if ((rok % 4 == 0) && ((rok % 100 != 0) || (rok % 400 == 0)))
             {
