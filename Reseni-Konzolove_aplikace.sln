@@ -87,17 +87,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-Podm-250-Svatebni-poradc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-Podm-260-Studijni-poradce", "02-Podm-260-Studijni-poradce\02-Podm-260-Studijni-poradce.csproj", "{8DC8A389-F4D7-4BEC-BFC4-8E37E6EF5FF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Podm-270-Prijmout-kandidata", "02-Podm-270-Prijmout-kandidata\02-Podm-270-Prijmout-kandidata.csproj", "{7C106243-3768-4DDE-88C5-1C5AC57F1434}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-Podm-270-Prijmout-kandidata", "02-Podm-270-Prijmout-kandidata\02-Podm-270-Prijmout-kandidata.csproj", "{7C106243-3768-4DDE-88C5-1C5AC57F1434}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Podm-290-Nejvetsi-ze-tri", "02-Podm-290-Nejvetsi-ze-tri\02-Podm-290-Nejvetsi-ze-tri.csproj", "{2F9997BE-471B-4D75-B7F7-0FE74EA17D15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-Podm-290-Nejvetsi-ze-tri", "02-Podm-290-Nejvetsi-ze-tri\02-Podm-290-Nejvetsi-ze-tri.csproj", "{2F9997BE-471B-4D75-B7F7-0FE74EA17D15}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02a-Random", "02a-Random", "{9F7CD231-0CEA-440E-8129-BBC99402F6F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02a-Rnd-010-Sestistěnka", "02a-Rnd-010-Sestistěnka\02a-Rnd-010-Sestistěnka.csproj", "{1A0F6EEF-81C9-4080-AFE8-CA0BE127A323}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02a-Rnd-010-Sestistěnka", "02a-Rnd-010-Sestistěnka\02a-Rnd-010-Sestistěnka.csproj", "{1A0F6EEF-81C9-4080-AFE8-CA0BE127A323}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02a-Rnd-020-Hra v kostky", "02a-Rnd-020-Hra v kostky\02a-Rnd-020-Hra v kostky.csproj", "{ACE2106B-2773-4564-AE7F-9FE11D9608BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02a-Rnd-020-Hra v kostky", "02a-Rnd-020-Hra v kostky\02a-Rnd-020-Hra v kostky.csproj", "{ACE2106B-2773-4564-AE7F-9FE11D9608BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02a-Rnd-030-Ruznostenka", "02a-Rnd-030-Ruznostenka\02a-Rnd-030-Ruznostenka.csproj", "{EC3D8FEC-57F3-429C-8A19-287815F61238}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02a-Rnd-030-Ruznostenka", "02a-Rnd-030-Ruznostenka\02a-Rnd-030-Ruznostenka.csproj", "{EC3D8FEC-57F3-429C-8A19-287815F61238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02a-Rnd-040-KNP-uvod", "02a-Rnd-040-KNP-uvod\02a-Rnd-040-KNP-uvod.csproj", "{382FEECF-7D1B-4437-ABA9-5A40DF3AC9A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02a-Rnd-050-KNP-User-interface", "02a-Rnd-050-KNP-User-interface\02a-Rnd-050-KNP-User-interface.csproj", "{3B793FC4-8D8F-4F46-A876-ACC39184DE18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02a-Rnd-060-KNP-cele", "02a-Rnd-060-KNP-cele\02a-Rnd-060-KNP-cele.csproj", "{FA06FF2D-4B88-4D57-8246-7C320E879B7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-While-010-Mala-nasobilka", "03-While-010-Mala-nasobilka\03-While-010-Mala-nasobilka.csproj", "{B07616F5-D77D-4F0E-B8E0-191AFAFD97B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-While-020-Nacti-zaporne", "03-While-020-Nacti-zaporne\03-While-020-Nacti-zaporne.csproj", "{0EACE196-3A78-4FAD-8368-4FA05EA4636D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -285,6 +295,26 @@ Global
 		{EC3D8FEC-57F3-429C-8A19-287815F61238}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC3D8FEC-57F3-429C-8A19-287815F61238}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC3D8FEC-57F3-429C-8A19-287815F61238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{382FEECF-7D1B-4437-ABA9-5A40DF3AC9A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{382FEECF-7D1B-4437-ABA9-5A40DF3AC9A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{382FEECF-7D1B-4437-ABA9-5A40DF3AC9A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{382FEECF-7D1B-4437-ABA9-5A40DF3AC9A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B793FC4-8D8F-4F46-A876-ACC39184DE18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B793FC4-8D8F-4F46-A876-ACC39184DE18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B793FC4-8D8F-4F46-A876-ACC39184DE18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B793FC4-8D8F-4F46-A876-ACC39184DE18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA06FF2D-4B88-4D57-8246-7C320E879B7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA06FF2D-4B88-4D57-8246-7C320E879B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA06FF2D-4B88-4D57-8246-7C320E879B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA06FF2D-4B88-4D57-8246-7C320E879B7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B07616F5-D77D-4F0E-B8E0-191AFAFD97B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B07616F5-D77D-4F0E-B8E0-191AFAFD97B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B07616F5-D77D-4F0E-B8E0-191AFAFD97B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B07616F5-D77D-4F0E-B8E0-191AFAFD97B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EACE196-3A78-4FAD-8368-4FA05EA4636D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EACE196-3A78-4FAD-8368-4FA05EA4636D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EACE196-3A78-4FAD-8368-4FA05EA4636D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EACE196-3A78-4FAD-8368-4FA05EA4636D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -335,6 +365,10 @@ Global
 		{1A0F6EEF-81C9-4080-AFE8-CA0BE127A323} = {9F7CD231-0CEA-440E-8129-BBC99402F6F2}
 		{ACE2106B-2773-4564-AE7F-9FE11D9608BD} = {9F7CD231-0CEA-440E-8129-BBC99402F6F2}
 		{EC3D8FEC-57F3-429C-8A19-287815F61238} = {9F7CD231-0CEA-440E-8129-BBC99402F6F2}
+		{382FEECF-7D1B-4437-ABA9-5A40DF3AC9A7} = {9F7CD231-0CEA-440E-8129-BBC99402F6F2}
+		{3B793FC4-8D8F-4F46-A876-ACC39184DE18} = {9F7CD231-0CEA-440E-8129-BBC99402F6F2}
+		{FA06FF2D-4B88-4D57-8246-7C320E879B7A} = {9F7CD231-0CEA-440E-8129-BBC99402F6F2}
+		{0EACE196-3A78-4FAD-8368-4FA05EA4636D} = {7A15B0A2-39F6-4F4B-88B8-70E67B5354E2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F33069B6-093C-443C-8255-85C5801FF252}
