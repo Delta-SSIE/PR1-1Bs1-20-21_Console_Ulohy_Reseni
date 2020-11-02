@@ -121,19 +121,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-While-060-Sude-nad-deset
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-While-070-Delitelnost", "03-While-070-Delitelnost\03-While-070-Delitelnost.csproj", "{B1671AE8-4305-4B70-8C2C-751A4646003B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-While-080-Soucet-zadanych", "03-While-080-Soucet_zadanych\03-While-080-Soucet-zadanych.csproj", "{CFB9D6D8-FB0B-42B7-83A1-5E8B86B2C61A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-While-080-Soucet-zadanych", "03-While-080-Soucet_zadanych\03-While-080-Soucet-zadanych.csproj", "{CFB9D6D8-FB0B-42B7-83A1-5E8B86B2C61A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-While-090-Soucet-cisel-v-intervalu", "03-While-090-Soucet-cisel-v-intervalu\03-While-090-Soucet-cisel-v-intervalu.csproj", "{FB4CD492-8B5F-44A5-80A0-77FCCE445D7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-While-090-Soucet-cisel-v-intervalu", "03-While-090-Soucet-cisel-v-intervalu\03-While-090-Soucet-cisel-v-intervalu.csproj", "{FB4CD492-8B5F-44A5-80A0-77FCCE445D7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-While-100-Soucin-zadanych", "03-While-100-Soucin-zadanych\03-While-100-Soucin-zadanych.csproj", "{EB9AB100-7511-45FD-84A5-74483CDD3E12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-While-100-Soucin-zadanych", "03-While-100-Soucin-zadanych\03-While-100-Soucin-zadanych.csproj", "{EB9AB100-7511-45FD-84A5-74483CDD3E12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-While-110-Kdy-padne-6", "03-While-110-Kdy-padne-6\03-While-110-Kdy-padne-6.csproj", "{81FA59BC-1D2A-4B84-96CE-6416EC22D5FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-While-110-Kdy-padne-6", "03-While-110-Kdy-padne-6\03-While-110-Kdy-padne-6.csproj", "{81FA59BC-1D2A-4B84-96CE-6416EC22D5FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-While-110-Kdy-padne-6-Level-2", "03-While-110-Kdy-padne-6-Level-2\03-While-110-Kdy-padne-6-Level-2.csproj", "{40D37BD3-287F-4167-9A29-E0F8D86FA655}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-While-110-Kdy-padne-6-Level-2", "03-While-110-Kdy-padne-6-Level-2\03-While-110-Kdy-padne-6-Level-2.csproj", "{40D37BD3-287F-4167-9A29-E0F8D86FA655}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-While-120-Pocty-podle-parity", "03-While-120-Pocty-podle-parity\03-While-120-Pocty-podle-parity.csproj", "{F58B87FD-D993-4456-9A45-D2A35255BD1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-While-120-Pocty-podle-parity", "03-While-120-Pocty-podle-parity\03-While-120-Pocty-podle-parity.csproj", "{F58B87FD-D993-4456-9A45-D2A35255BD1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-While-130-Pocty-podle-velikosti", "03-While-130-Pocty-podle-velikosti\03-While-130-Pocty-podle-velikosti.csproj", "{9574932E-6385-472E-83AB-D0D4546A42C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-While-130-Pocty-podle-velikosti", "03-While-130-Pocty-podle-velikosti\03-While-130-Pocty-podle-velikosti.csproj", "{9574932E-6385-472E-83AB-D0D4546A42C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-While-195-Zebriky-a-hadi", "03-While-195-Zebriky-a-hadi\03-While-195-Zebriky-a-hadi.csproj", "{2F118755-B10B-47EF-95ED-126B4C7005A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -389,6 +391,10 @@ Global
 		{9574932E-6385-472E-83AB-D0D4546A42C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9574932E-6385-472E-83AB-D0D4546A42C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9574932E-6385-472E-83AB-D0D4546A42C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F118755-B10B-47EF-95ED-126B4C7005A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F118755-B10B-47EF-95ED-126B4C7005A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F118755-B10B-47EF-95ED-126B4C7005A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F118755-B10B-47EF-95ED-126B4C7005A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -456,6 +462,7 @@ Global
 		{40D37BD3-287F-4167-9A29-E0F8D86FA655} = {F9C61390-53C0-45E5-B4FD-11C2E424EC14}
 		{F58B87FD-D993-4456-9A45-D2A35255BD1C} = {F9C61390-53C0-45E5-B4FD-11C2E424EC14}
 		{9574932E-6385-472E-83AB-D0D4546A42C1} = {F9C61390-53C0-45E5-B4FD-11C2E424EC14}
+		{2F118755-B10B-47EF-95ED-126B4C7005A9} = {F9C61390-53C0-45E5-B4FD-11C2E424EC14}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F33069B6-093C-443C-8255-85C5801FF252}
