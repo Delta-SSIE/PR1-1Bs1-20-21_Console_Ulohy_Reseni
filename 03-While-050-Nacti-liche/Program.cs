@@ -19,8 +19,7 @@ namespace _03_While_050_Nacti_liche
             }
 
             int zbytek = cislo % 10;
-            int chybi = 10 - zbytek;
-            int nasobek10 = cislo + chybi;
+            int nasobek10 = cislo - zbytek + 10;
             Console.WriteLine("Nejbližší vyšší násobek deseti k číslu {0} je {1}", cislo, nasobek10);
         }
     }
