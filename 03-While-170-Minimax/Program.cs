@@ -15,14 +15,16 @@ namespace _03_While_170_Minimax
             double minimum = double.PositiveInfinity;
             double maximum = double.NegativeInfinity;
             double soucet = 0;
-            double pocet = 0;
+            int pocet = 0;
 
             Console.Write("Zadej první číslo: ");
             string prikaz = Console.ReadLine();
 
             while (prikaz.ToUpper() != "X")
             {
-                if (double.TryParse(prikaz, out double cislo))
+                double cislo;
+
+                if (double.TryParse(prikaz, out cislo))
                 {
                     soucet += cislo;
                     pocet++;
@@ -43,7 +45,7 @@ namespace _03_While_170_Minimax
             if (pocet > 0)
                 Console.WriteLine($"Zadáno {pocet} čísel, nejmenší bylo {minimum}, největší {maximum}, průměr vložených čísel byl {soucet/pocet}.");
             else
-                Console.WriteLine("Nebylo vloženo žádné číslo.");
+                Console.WriteLine("3 vloženo žádné číslo.");
         }
     }
 }
