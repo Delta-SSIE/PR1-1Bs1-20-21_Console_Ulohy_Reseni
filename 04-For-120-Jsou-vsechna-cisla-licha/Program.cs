@@ -17,7 +17,7 @@ namespace _04_For_120_Jsou_vsechna_cisla_licha
                 int cislo = int.Parse(Console.ReadLine());
                 if (cislo % 2 == 0)
                 {
-                    vsechnaLicha = true;
+                    vsechnaLicha = false;
                     break;
                 }
             }
