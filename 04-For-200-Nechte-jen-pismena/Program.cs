@@ -18,8 +18,9 @@ namespace _04_For_200_Nechte_jen_pismena
 
             for (int i = 0; i < text.Length; i++)
             {
-                int kodZnaku = text[i]; //získám kód znaku prostě tím, že jej uložím do datového typu int
-                if ( ( kodZnaku > 64 && kodZnaku < 91 ) || (kodZnaku > 96 && kodZnaku < 123))
+                //int kodZnaku = text[i]; //získám kód znaku prostě tím, že jej uložím do datového typu int
+                //if ( ( kodZnaku > 64 && kodZnaku < 91 ) || (kodZnaku > 96 && kodZnaku < 123)) //ověřím, že je to písmeno
+                if ((text[i] >= 'A' && text[i] <= 'Z') || (text[i] >= 'a' && text[i] <= 'z')) //nebo přímo
                 {
                     novyText += text[i];
                 }
