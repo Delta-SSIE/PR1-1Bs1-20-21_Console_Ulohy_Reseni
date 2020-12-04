@@ -195,37 +195,41 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-For-190-Vynechte-mezery"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-For-200-Nechte-jen-pismena", "04-For-200-Nechte-jen-pismena\04-For-200-Nechte-jen-pismena.csproj", "{1C96A6B0-BA55-4530-8131-63BF42AEBCBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-For-210-Namaluj-ctverec", "04-For-210-Namaluj-ctverec\04-For-210-Namaluj-ctverec.csproj", "{94AE2FE8-ABB0-4914-98FC-F62F5BBD62F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-For-210-Namaluj-ctverec", "04-For-210-Namaluj-ctverec\04-For-210-Namaluj-ctverec.csproj", "{94AE2FE8-ABB0-4914-98FC-F62F5BBD62F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-For-220-Namaluj-obdelnik", "04-For-220-Namaluj-obdelnik\04-For-220-Namaluj-obdelnik.csproj", "{FF675619-AE53-405F-B7B2-D8A59403230A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-For-220-Namaluj-obdelnik", "04-For-220-Namaluj-obdelnik\04-For-220-Namaluj-obdelnik.csproj", "{FF675619-AE53-405F-B7B2-D8A59403230A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-For-230-Namaluj-trojúhelnik-typu-p", "04-For-230-Namaluj-trojúhelnik-typu-p\04-For-230-Namaluj-trojúhelnik-typu-p.csproj", "{C5059CFB-0D02-4AEE-BF72-CD308C885FAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-For-230-Namaluj-trojúhelnik-typu-p", "04-For-230-Namaluj-trojúhelnik-typu-p\04-For-230-Namaluj-trojúhelnik-typu-p.csproj", "{C5059CFB-0D02-4AEE-BF72-CD308C885FAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-For-240-Namaluj-trojuhelnik-typu-q", "04-For-240-Namaluj-trojuhelnik-typu-q\04-For-240-Namaluj-trojuhelnik-typu-q.csproj", "{D02D3866-F88C-4D4E-BEB5-BB17CE89708D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-For-240-Namaluj-trojuhelnik-typu-q", "04-For-240-Namaluj-trojuhelnik-typu-q\04-For-240-Namaluj-trojuhelnik-typu-q.csproj", "{D02D3866-F88C-4D4E-BEB5-BB17CE89708D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-For-250-Namaluj-trojúhelník-typu-d", "04-For-250-Namaluj-trojúhelník-typu-d\04-For-250-Namaluj-trojúhelník-typu-d.csproj", "{D6BAC2D7-B0EC-4B7D-864A-8E3BED100A68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-For-250-Namaluj-trojúhelník-typu-d", "04-For-250-Namaluj-trojúhelník-typu-d\04-For-250-Namaluj-trojúhelník-typu-d.csproj", "{D6BAC2D7-B0EC-4B7D-864A-8E3BED100A68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-For-260-Namaluj-trojuhelnik-typu-delta", "04-For-260-Namaluj-trojuhelnik-typu-delta\04-For-260-Namaluj-trojuhelnik-typu-delta.csproj", "{54DBADC6-F167-4B9F-B523-F4C91355DF60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-For-260-Namaluj-trojuhelnik-typu-delta", "04-For-260-Namaluj-trojuhelnik-typu-delta\04-For-260-Namaluj-trojuhelnik-typu-delta.csproj", "{54DBADC6-F167-4B9F-B523-F4C91355DF60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-For-300-Kam-utoci-vez-L1", "04-For-300-Kam-utoci-vez-L1\04-For-300-Kam-utoci-vez-L1.csproj", "{8520B96E-5040-431B-85E7-ED4D8F0EDE06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-For-300-Kam-utoci-vez-L1", "04-For-300-Kam-utoci-vez-L1\04-For-300-Kam-utoci-vez-L1.csproj", "{8520B96E-5040-431B-85E7-ED4D8F0EDE06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-For-310-Kam-utoci-vez-L2", "04-For-310-Kam-utoci-vez-L2\04-For-310-Kam-utoci-vez-L2.csproj", "{BF2835B9-A3D1-4C46-A1A2-46F569B81F50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-For-310-Kam-utoci-vez-L2", "04-For-310-Kam-utoci-vez-L2\04-For-310-Kam-utoci-vez-L2.csproj", "{BF2835B9-A3D1-4C46-A1A2-46F569B81F50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-For-320-Kam-dojde-kral-L1", "04-For-320-Kam-dojde-kral-L1\04-For-320-Kam-dojde-kral-L1.csproj", "{0B55D2EF-28C3-48C7-AD5E-E88EF2C7EDCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-For-320-Kam-dojde-kral-L1", "04-For-320-Kam-dojde-kral-L1\04-For-320-Kam-dojde-kral-L1.csproj", "{0B55D2EF-28C3-48C7-AD5E-E88EF2C7EDCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-For-330-Kam-dojde-kral-L2", "04-For-330-Kam-dojde-kral-L2\04-For-330-Kam-dojde-kral-L2.csproj", "{E3E6A0AD-82B5-44E9-968F-73370C7A7304}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-For-330-Kam-dojde-kral-L2", "04-For-330-Kam-dojde-kral-L2\04-For-330-Kam-dojde-kral-L2.csproj", "{E3E6A0AD-82B5-44E9-968F-73370C7A7304}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-For-340-Kam-utoci-strelec-L1", "04-For-340-Kam-utoci-strelec-L1\04-For-340-Kam-utoci-strelec-L1.csproj", "{D36AA295-67C8-4512-8DC5-85CC7CBAA02D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-For-340-Kam-utoci-strelec-L1", "04-For-340-Kam-utoci-strelec-L1\04-For-340-Kam-utoci-strelec-L1.csproj", "{D36AA295-67C8-4512-8DC5-85CC7CBAA02D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-For-350-Kam-utoci-strelec-L2", "04-For-350-Kam-utoci-strelec-L2\04-For-350-Kam-utoci-strelec-L2.csproj", "{4E87C8AA-7D4A-4C88-8107-06D09A30481A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-For-350-Kam-utoci-strelec-L2", "04-For-350-Kam-utoci-strelec-L2\04-For-350-Kam-utoci-strelec-L2.csproj", "{4E87C8AA-7D4A-4C88-8107-06D09A30481A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-For-360-Kam-utoci-dama-L1", "04-For-360-Kam-utoci-dama-L1\04-For-360-Kam-utoci-dama-L1.csproj", "{13446F36-B9A8-4DF3-B367-3FF9C3D8A0B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-For-360-Kam-utoci-dama-L1", "04-For-360-Kam-utoci-dama-L1\04-For-360-Kam-utoci-dama-L1.csproj", "{13446F36-B9A8-4DF3-B367-3FF9C3D8A0B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-For-370-Kam-utoci-dama-L2", "04-For-370-Kam-utoci-dama-L2\04-For-370-Kam-utoci-dama-L2.csproj", "{4B62583A-BF7F-4038-9FBE-A1226E6CF46A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-For-370-Kam-utoci-dama-L2", "04-For-370-Kam-utoci-dama-L2\04-For-370-Kam-utoci-dama-L2.csproj", "{4B62583A-BF7F-4038-9FBE-A1226E6CF46A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-For-380-Kam-utoci-jezdec-L1", "04-For-380-Kam-utoci-jezdec-L1\04-For-380-Kam-utoci-jezdec-L1.csproj", "{9BFCF183-C3B4-40B3-AFE2-AAB1B50B9FAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-For-380-Kam-utoci-jezdec-L1", "04-For-380-Kam-utoci-jezdec-L1\04-For-380-Kam-utoci-jezdec-L1.csproj", "{9BFCF183-C3B4-40B3-AFE2-AAB1B50B9FAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-For-390-Kam-utoci-jezdec-L2", "04-For-390-Kam-utoci-jezdec-L2\04-For-390-Kam-utoci-jezdec-L2.csproj", "{7502F9B6-14D9-4D3C-B0D2-D6A65D0A95C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-For-390-Kam-utoci-jezdec-L2", "04-For-390-Kam-utoci-jezdec-L2\04-For-390-Kam-utoci-jezdec-L2.csproj", "{7502F9B6-14D9-4D3C-B0D2-D6A65D0A95C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-For-280-Algebrogram-I", "04-For-280-Algebrogram-I\04-For-280-Algebrogram-I.csproj", "{3A4E31BF-9366-4B8F-A60C-225302477F4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-For-290-Algebrogram-II", "04-For-290-Algebrogram-II\04-For-290-Algebrogram-II.csproj", "{1530D781-CD8B-4B11-BA5F-5D121E12492D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -661,6 +665,14 @@ Global
 		{7502F9B6-14D9-4D3C-B0D2-D6A65D0A95C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7502F9B6-14D9-4D3C-B0D2-D6A65D0A95C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7502F9B6-14D9-4D3C-B0D2-D6A65D0A95C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A4E31BF-9366-4B8F-A60C-225302477F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A4E31BF-9366-4B8F-A60C-225302477F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A4E31BF-9366-4B8F-A60C-225302477F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A4E31BF-9366-4B8F-A60C-225302477F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1530D781-CD8B-4B11-BA5F-5D121E12492D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1530D781-CD8B-4B11-BA5F-5D121E12492D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1530D781-CD8B-4B11-BA5F-5D121E12492D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1530D781-CD8B-4B11-BA5F-5D121E12492D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -773,6 +785,8 @@ Global
 		{4B62583A-BF7F-4038-9FBE-A1226E6CF46A} = {854FE20E-4E31-431D-B30D-9B47F42C268E}
 		{9BFCF183-C3B4-40B3-AFE2-AAB1B50B9FAD} = {854FE20E-4E31-431D-B30D-9B47F42C268E}
 		{7502F9B6-14D9-4D3C-B0D2-D6A65D0A95C1} = {854FE20E-4E31-431D-B30D-9B47F42C268E}
+		{3A4E31BF-9366-4B8F-A60C-225302477F4D} = {854FE20E-4E31-431D-B30D-9B47F42C268E}
+		{1530D781-CD8B-4B11-BA5F-5D121E12492D} = {854FE20E-4E31-431D-B30D-9B47F42C268E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F33069B6-093C-443C-8255-85C5801FF252}
