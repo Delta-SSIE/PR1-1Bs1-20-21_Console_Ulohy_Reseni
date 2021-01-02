@@ -22,7 +22,7 @@ namespace _03_While_140_Maximum
                 nacteno = int.Parse(Console.ReadLine()); // načtu další číslo
             }
 
-            if (maximum > int.MaxValue) // Změnila se hodnota od začátku programu?
+            if (maximum > int.MinValue) // Změnila se hodnota od začátku programu?
             {
                 // Pokud ano, je co vypisovat.
                 Console.WriteLine($"Nejmenší číslo z požadovaných bylo {maximum}.");
