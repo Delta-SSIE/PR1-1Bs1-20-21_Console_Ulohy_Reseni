@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace _05_Pole_040_Podmineny_soucet
 {
@@ -36,6 +37,12 @@ namespace _05_Pole_040_Podmineny_soucet
             }
 
             Console.WriteLine($"Součet čísel mezi -10 a 10 je {suma}.");
+
+            /* Varianta 2 - nepovinná - s použitím LINQ (jen ukázka pro inspiraci) */
+            /* kvůli této variantě je v záhlaví souboru uvedeno using System.Linq */
+
+            int suma2 = cisla.Where(x => x > -10 && x < 10).Sum();
+            Console.WriteLine($"Součet čísel mezi -10 a 10 je {suma2}.");
         }
     }
 }

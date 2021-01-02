@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace _05_Pole_070_Dlouhe_retezce
 {
@@ -25,13 +26,28 @@ namespace _05_Pole_070_Dlouhe_retezce
             }
 
             Console.WriteLine($"Ze zadaných řetězců jsou alespoň {minDelka}-znakové tyto:");
-            
+
+            /*
+             * Základní varianta - povinná pro každého 
+             */
+
             //vypíšu filtrovaná data
             for (int i = 0; i < pocet; i++)
             {
                 string aktualni = data[i];
                 if (aktualni.Length >= minDelka)
                     Console.WriteLine(aktualni);
+            }
+
+            Console.WriteLine();
+
+            /* 
+             * Varianta 2 - nepovinná - s použitím LINQ (jen ukázka pro inspiraci) 
+             * kvůli této variantě je v záhlaví souboru uvedeno using System.Linq 
+             */
+            foreach (var item in data.Where(x => x.Length >= minDelka) )
+            {
+                Console.WriteLine(item);
             }
 
         }

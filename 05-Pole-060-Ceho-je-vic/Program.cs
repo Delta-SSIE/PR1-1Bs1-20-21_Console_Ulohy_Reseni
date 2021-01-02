@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace _05_Pole_060_Ceho_je_vic
 {
@@ -55,6 +56,19 @@ namespace _05_Pole_060_Ceho_je_vic
             if (ukazatel > 0)
                 Console.WriteLine("Kladných je v poli víc");
             else if (ukazatel < 0)
+                Console.WriteLine("Záporných je v poli víc");
+            else
+                Console.WriteLine("Kladných je v poli stejně jako záporných");
+
+            /* Varianta 3 - nepovinná - s použitím LINQ (jen ukázka pro inspiraci) */
+            /* kvůli této variantě je v záhlaví souboru uvedeno using System.Linq */            
+            int ukazatel2 = cisla.Aggregate(0, (sum, x) => sum + Math.Sign(x));
+
+            //toto už jse stejné s předchozí
+
+            if (ukazatel2 > 0)
+                Console.WriteLine("Kladných je v poli víc");
+            else if (ukazatel2 < 0)
                 Console.WriteLine("Záporných je v poli víc");
             else
                 Console.WriteLine("Kladných je v poli stejně jako záporných");
