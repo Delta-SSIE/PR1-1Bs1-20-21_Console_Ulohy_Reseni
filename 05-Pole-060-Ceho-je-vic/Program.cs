@@ -64,7 +64,7 @@ namespace _05_Pole_060_Ceho_je_vic
             /* kvůli této variantě je v záhlaví souboru uvedeno using System.Linq */            
             int ukazatel2 = cisla.Aggregate(0, (sum, x) => sum + Math.Sign(x));
 
-            //toto už jse stejné s předchozí
+            //toto už je stejné s předchozí
 
             if (ukazatel2 > 0)
                 Console.WriteLine("Kladných je v poli víc");
