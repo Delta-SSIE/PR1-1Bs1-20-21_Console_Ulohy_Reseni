@@ -23,7 +23,9 @@ namespace _06_Metody_040_Soucin
         }
         public static double Soucin(double num1, double num2)
         {
-            return num1 * num2;
+            //double vysledek = num1 * num2;
+            //return vysledek;
+            return vysledek = num1 * num2;
         }
 
     }
