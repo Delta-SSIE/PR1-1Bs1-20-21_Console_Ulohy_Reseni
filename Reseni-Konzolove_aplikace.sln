@@ -347,17 +347,31 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-2D-pole-080-Senatni-volb
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-2D-pole-090-Tabulka-vzdalenosti", "07-2D-pole-090-Tabulka-vzdalenosti\07-2D-pole-090-Tabulka-vzdalenosti.csproj", "{D964F831-E3AB-4874-8082-77691FE740B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-2D-pole-010-Dve-diagonaly", "07-2D-pole-010-Dve-diagonaly\07-2D-pole-010-Dve-diagonaly.csproj", "{A43AA14E-766C-4B0B-AB00-4322C421E738}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-2D-pole-010-Dve-diagonaly", "07-2D-pole-010-Dve-diagonaly\07-2D-pole-010-Dve-diagonaly.csproj", "{A43AA14E-766C-4B0B-AB00-4322C421E738}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-2D-pole-020-Kresleni", "07-2D-pole-020-Kresleni\07-2D-pole-020-Kresleni.csproj", "{45C8C38D-4110-43B0-B95B-ED9C993701B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-2D-pole-020-Kresleni", "07-2D-pole-020-Kresleni\07-2D-pole-020-Kresleni.csproj", "{45C8C38D-4110-43B0-B95B-ED9C993701B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-2D-pole-030-Nacti-z-klavesnice", "07-2D-pole-030-Nacti-z-klavesnice\07-2D-pole-030-Nacti-z-klavesnice.csproj", "{3FF3857D-7916-42F1-ADDF-85D060313C87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-2D-pole-030-Nacti-z-klavesnice", "07-2D-pole-030-Nacti-z-klavesnice\07-2D-pole-030-Nacti-z-klavesnice.csproj", "{3FF3857D-7916-42F1-ADDF-85D060313C87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-2D-pole-040-Vypis-do-tabulky", "07-2D-pole-040-Vypis-do-tabulky\07-2D-pole-040-Vypis-do-tabulky.csproj", "{CA8D75C4-3737-4841-81BD-A700272D2733}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-2D-pole-040-Vypis-do-tabulky", "07-2D-pole-040-Vypis-do-tabulky\07-2D-pole-040-Vypis-do-tabulky.csproj", "{CA8D75C4-3737-4841-81BD-A700272D2733}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-2D-pole-050-Ucetnicke-soucty", "07-2D-pole-050-Ucetnicke-soucty\07-2D-pole-050-Ucetnicke-soucty.csproj", "{B79EDB6F-3592-464C-B7AF-067AA15FA2E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-2D-pole-050-Ucetnicke-soucty", "07-2D-pole-050-Ucetnicke-soucty\07-2D-pole-050-Ucetnicke-soucty.csproj", "{B79EDB6F-3592-464C-B7AF-067AA15FA2E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-2D-pole-060-Transponuj-pole", "07-2D-pole-060-Transponuj-pole\07-2D-pole-060-Transponuj-pole.csproj", "{C366771A-835E-4739-BE7C-8F01D1F796FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-2D-pole-060-Transponuj-pole", "07-2D-pole-060-Transponuj-pole\07-2D-pole-060-Transponuj-pole.csproj", "{C366771A-835E-4739-BE7C-8F01D1F796FE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-2D-pole-070-Pruzkum-tolerance", "07-2D-pole-070-Pruzkum-tolerance\07-2D-pole-070-Pruzkum-tolerance.csproj", "{C3E2F372-479B-44F9-8AD0-EF67CC3345F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-2D-pole-100-Mapa-svahu", "07-2D-pole-100-Mapa-svahu\07-2D-pole-100-Mapa-svahu.csproj", "{7B9E8C08-C069-45D5-93CF-5A1FA4A4D346}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-2D-pole-160-Sachovnice", "07-2D-pole-160-Sachovnice\07-2D-pole-160-Sachovnice.csproj", "{A01B3B7F-C220-489F-B8A8-C93FADD5991B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-2D-pole-120-Nahodne-rozmisteni-v-poli", "07-2D-pole-120-Nahodne-rozmisteni-v-poli\07-2D-pole-120-Nahodne-rozmisteni-v-poli.csproj", "{592D950A-861C-4D9D-931B-F3B0F0430DB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-2D-pole-130-Kresleni-mapy-ver-2", "07-2D-pole-130-Kresleni-mapy-ver-2\07-2D-pole-130-Kresleni-mapy-ver-2.csproj", "{B616FF56-798A-48C3-8A4C-D9E0C3F05CBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-2D-pole-140-Pocet-sousedu", "07-2D-pole-140-Pocet-sousedu\07-2D-pole-140-Pocet-sousedu.csproj", "{135BD4A8-93B2-4160-89BB-E683757B7AF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-2D-pole-150-Mapa-sousedu", "07-2D-pole-150-Mapa-sousedu\07-2D-pole-150-Mapa-sousedu.csproj", "{6EF8AFAE-BDA1-4655-9EF1-49C2B2412C6E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1045,6 +1059,34 @@ Global
 		{C366771A-835E-4739-BE7C-8F01D1F796FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C366771A-835E-4739-BE7C-8F01D1F796FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C366771A-835E-4739-BE7C-8F01D1F796FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3E2F372-479B-44F9-8AD0-EF67CC3345F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E2F372-479B-44F9-8AD0-EF67CC3345F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E2F372-479B-44F9-8AD0-EF67CC3345F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E2F372-479B-44F9-8AD0-EF67CC3345F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B9E8C08-C069-45D5-93CF-5A1FA4A4D346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B9E8C08-C069-45D5-93CF-5A1FA4A4D346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B9E8C08-C069-45D5-93CF-5A1FA4A4D346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B9E8C08-C069-45D5-93CF-5A1FA4A4D346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A01B3B7F-C220-489F-B8A8-C93FADD5991B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A01B3B7F-C220-489F-B8A8-C93FADD5991B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A01B3B7F-C220-489F-B8A8-C93FADD5991B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A01B3B7F-C220-489F-B8A8-C93FADD5991B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{592D950A-861C-4D9D-931B-F3B0F0430DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592D950A-861C-4D9D-931B-F3B0F0430DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592D950A-861C-4D9D-931B-F3B0F0430DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592D950A-861C-4D9D-931B-F3B0F0430DB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B616FF56-798A-48C3-8A4C-D9E0C3F05CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B616FF56-798A-48C3-8A4C-D9E0C3F05CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B616FF56-798A-48C3-8A4C-D9E0C3F05CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B616FF56-798A-48C3-8A4C-D9E0C3F05CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{135BD4A8-93B2-4160-89BB-E683757B7AF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135BD4A8-93B2-4160-89BB-E683757B7AF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135BD4A8-93B2-4160-89BB-E683757B7AF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135BD4A8-93B2-4160-89BB-E683757B7AF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EF8AFAE-BDA1-4655-9EF1-49C2B2412C6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF8AFAE-BDA1-4655-9EF1-49C2B2412C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF8AFAE-BDA1-4655-9EF1-49C2B2412C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF8AFAE-BDA1-4655-9EF1-49C2B2412C6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1220,6 +1262,13 @@ Global
 		{CA8D75C4-3737-4841-81BD-A700272D2733} = {E5E68081-12E1-4D31-9ACC-7E272F58E3FE}
 		{B79EDB6F-3592-464C-B7AF-067AA15FA2E9} = {E5E68081-12E1-4D31-9ACC-7E272F58E3FE}
 		{C366771A-835E-4739-BE7C-8F01D1F796FE} = {E5E68081-12E1-4D31-9ACC-7E272F58E3FE}
+		{C3E2F372-479B-44F9-8AD0-EF67CC3345F5} = {E5E68081-12E1-4D31-9ACC-7E272F58E3FE}
+		{7B9E8C08-C069-45D5-93CF-5A1FA4A4D346} = {E5E68081-12E1-4D31-9ACC-7E272F58E3FE}
+		{A01B3B7F-C220-489F-B8A8-C93FADD5991B} = {E5E68081-12E1-4D31-9ACC-7E272F58E3FE}
+		{592D950A-861C-4D9D-931B-F3B0F0430DB6} = {E5E68081-12E1-4D31-9ACC-7E272F58E3FE}
+		{B616FF56-798A-48C3-8A4C-D9E0C3F05CBD} = {E5E68081-12E1-4D31-9ACC-7E272F58E3FE}
+		{135BD4A8-93B2-4160-89BB-E683757B7AF8} = {E5E68081-12E1-4D31-9ACC-7E272F58E3FE}
+		{6EF8AFAE-BDA1-4655-9EF1-49C2B2412C6E} = {E5E68081-12E1-4D31-9ACC-7E272F58E3FE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F33069B6-093C-443C-8255-85C5801FF252}
