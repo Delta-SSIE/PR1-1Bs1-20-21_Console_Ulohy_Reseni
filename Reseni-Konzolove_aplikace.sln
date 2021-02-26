@@ -363,15 +363,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-2D-pole-070-Pruzkum-tole
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-2D-pole-100-Mapa-svahu", "07-2D-pole-100-Mapa-svahu\07-2D-pole-100-Mapa-svahu.csproj", "{7B9E8C08-C069-45D5-93CF-5A1FA4A4D346}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-2D-pole-160-Sachovnice", "07-2D-pole-160-Sachovnice\07-2D-pole-160-Sachovnice.csproj", "{A01B3B7F-C220-489F-B8A8-C93FADD5991B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-2D-pole-160-Sachovnice", "07-2D-pole-160-Sachovnice\07-2D-pole-160-Sachovnice.csproj", "{A01B3B7F-C220-489F-B8A8-C93FADD5991B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-2D-pole-120-Nahodne-rozmisteni-v-poli", "07-2D-pole-120-Nahodne-rozmisteni-v-poli\07-2D-pole-120-Nahodne-rozmisteni-v-poli.csproj", "{592D950A-861C-4D9D-931B-F3B0F0430DB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-2D-pole-120-Nahodne-rozmisteni-v-poli", "07-2D-pole-120-Nahodne-rozmisteni-v-poli\07-2D-pole-120-Nahodne-rozmisteni-v-poli.csproj", "{592D950A-861C-4D9D-931B-F3B0F0430DB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-2D-pole-130-Kresleni-mapy-ver-2", "07-2D-pole-130-Kresleni-mapy-ver-2\07-2D-pole-130-Kresleni-mapy-ver-2.csproj", "{B616FF56-798A-48C3-8A4C-D9E0C3F05CBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-2D-pole-130-Kresleni-mapy-ver-2", "07-2D-pole-130-Kresleni-mapy-ver-2\07-2D-pole-130-Kresleni-mapy-ver-2.csproj", "{B616FF56-798A-48C3-8A4C-D9E0C3F05CBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-2D-pole-140-Pocet-sousedu", "07-2D-pole-140-Pocet-sousedu\07-2D-pole-140-Pocet-sousedu.csproj", "{135BD4A8-93B2-4160-89BB-E683757B7AF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-2D-pole-140-Pocet-sousedu", "07-2D-pole-140-Pocet-sousedu\07-2D-pole-140-Pocet-sousedu.csproj", "{135BD4A8-93B2-4160-89BB-E683757B7AF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-2D-pole-150-Mapa-sousedu", "07-2D-pole-150-Mapa-sousedu\07-2D-pole-150-Mapa-sousedu.csproj", "{6EF8AFAE-BDA1-4655-9EF1-49C2B2412C6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-2D-pole-150-Mapa-sousedu", "07-2D-pole-150-Mapa-sousedu\07-2D-pole-150-Mapa-sousedu.csproj", "{6EF8AFAE-BDA1-4655-9EF1-49C2B2412C6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-2D-pole-110-Mapa-pyramidy", "07-2D-pole-110-Mapa-pyramidy\07-2D-pole-110-Mapa-pyramidy.csproj", "{1368990F-A093-420B-93AB-B6FE1FB5BBBF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1087,6 +1089,10 @@ Global
 		{6EF8AFAE-BDA1-4655-9EF1-49C2B2412C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EF8AFAE-BDA1-4655-9EF1-49C2B2412C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EF8AFAE-BDA1-4655-9EF1-49C2B2412C6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1368990F-A093-420B-93AB-B6FE1FB5BBBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1368990F-A093-420B-93AB-B6FE1FB5BBBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1368990F-A093-420B-93AB-B6FE1FB5BBBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1368990F-A093-420B-93AB-B6FE1FB5BBBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1269,6 +1275,7 @@ Global
 		{B616FF56-798A-48C3-8A4C-D9E0C3F05CBD} = {E5E68081-12E1-4D31-9ACC-7E272F58E3FE}
 		{135BD4A8-93B2-4160-89BB-E683757B7AF8} = {E5E68081-12E1-4D31-9ACC-7E272F58E3FE}
 		{6EF8AFAE-BDA1-4655-9EF1-49C2B2412C6E} = {E5E68081-12E1-4D31-9ACC-7E272F58E3FE}
+		{1368990F-A093-420B-93AB-B6FE1FB5BBBF} = {E5E68081-12E1-4D31-9ACC-7E272F58E3FE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F33069B6-093C-443C-8255-85C5801FF252}

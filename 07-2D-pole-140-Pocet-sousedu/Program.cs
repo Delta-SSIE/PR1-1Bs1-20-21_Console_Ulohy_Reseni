@@ -15,8 +15,8 @@ namespace _07_2D_pole_140_Pocet_sousedu
             { false, false, true,  true },
         };
 
-            Console.WriteLine(PocetSousedu(mapa, 0, 0)); //mělo by vypsat 1 - levý horní roh sousedí jen s jednou minou
-            Console.WriteLine(PocetSousedu(mapa, 0, 3)); //mělo by vypsat 0 - levý dolní roh s žádnou minou nesousedí
+            //Console.WriteLine(PocetSousedu(mapa, 0, 0)); //mělo by vypsat 1 - levý horní roh sousedí jen s jednou minou
+            //Console.WriteLine(PocetSousedu(mapa, 0, 3)); //mělo by vypsat 0 - levý dolní roh s žádnou minou nesousedí
             Console.WriteLine(PocetSousedu(mapa, 2, 2)); //mělo by vypsat 5
 
         }

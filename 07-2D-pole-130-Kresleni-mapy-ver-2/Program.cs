@@ -8,7 +8,7 @@ namespace _07_2D_pole_130_Kresleni_mapy_ver_2
         {
             bool[,] mapa = VytvorMapu(6, 8, 10);
             VykresliPole(mapa, '#', ' '); // odkomentujte pro krok 1
-            VykresliPole2(mapa, 3, 3, '#', ' '); // odkomentujte pro krok 2
+            VykresliPole2(mapa, 3, 3, '#', ' '); // odkomentujte pro krok 2            
         }
         static bool[,] VytvorMapu(int vyska, int sirka, int pocetMinci)
         {

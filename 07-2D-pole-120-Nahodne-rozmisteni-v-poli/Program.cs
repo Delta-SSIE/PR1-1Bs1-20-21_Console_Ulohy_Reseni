@@ -15,17 +15,17 @@ namespace _07_2D_pole_120_Nahodne_rozmisteni_v_poli
             Random rnd = new Random();
 
             bool[,] mapa = new bool[vyska, sirka];
-            for (int i = 0; i < pocetMinci; i++)
+
+            int umisteno = 0;
+
+            while (umisteno < pocetMinci)
             {
                 int x = rnd.Next(sirka);
                 int y = rnd.Next(vyska);
-                if (mapa[y, x])
-                {
-                    i--;
-                }
-                else
-                {
+                if (!mapa[y, x])
+                { 
                     mapa[y, x] = true;
+                    umisteno++;
                 }
             }
             return mapa;
