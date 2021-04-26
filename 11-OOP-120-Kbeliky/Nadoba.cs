@@ -46,6 +46,11 @@ namespace _11_OOP_120_Kbeliky
             this.ObjemVody -= prelito;
         }
 
+        public void Prilej(Nadoba druhaNadoba)
+        {
+            druhaNadoba.PrelejDo(this);
+        }
+
         public override string ToString()
         {
             return $"Nádoba ({ObjemVody} l z max. {Objem})";
