@@ -425,7 +425,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13-Kolekce-010-List-Filtrov
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13-Kolekce-020-List-Nasobky", "13-Kolekce-020-List-Nasobky\13-Kolekce-020-List-Nasobky.csproj", "{0D3BF564-ADE7-49EB-AC40-EAEB46083939}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-Kolekce-050-Frekvence-znaku", "13-Kolekce-050-Frekvence-znaku\13-Kolekce-050-Frekvence-znaku.csproj", "{B0994213-C3F5-4D73-BCE8-D9615C627ED9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13-Kolekce-050-Frekvence-znaku", "13-Kolekce-050-Frekvence-znaku\13-Kolekce-050-Frekvence-znaku.csproj", "{B0994213-C3F5-4D73-BCE8-D9615C627ED9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13-Kolekce-030-List-Nacitani", "13-Kolekce-030-List-Nacitani\13-Kolekce-030-List-Nacitani.csproj", "{7984132A-4739-4C6E-BDF5-B30578100B0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-Kolekce-040-Dictionary-Slovnik", "13-Kolekce-040-Dictionary-Slovnik\13-Kolekce-040-Dictionary-Slovnik.csproj", "{C61264FF-E7C8-4C10-B217-BCCF5C13BA22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-Kolekce-060-Dictionary-Morse-Zpetny-preklad", "13-Kolekce-060-Dictionary-Morse-Zpetny-preklad\13-Kolekce-060-Dictionary-Morse-Zpetny-preklad.csproj", "{BA0D132A-632D-4C6E-A40A-C824F981CA20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1233,6 +1239,18 @@ Global
 		{B0994213-C3F5-4D73-BCE8-D9615C627ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0994213-C3F5-4D73-BCE8-D9615C627ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0994213-C3F5-4D73-BCE8-D9615C627ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7984132A-4739-4C6E-BDF5-B30578100B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7984132A-4739-4C6E-BDF5-B30578100B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7984132A-4739-4C6E-BDF5-B30578100B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7984132A-4739-4C6E-BDF5-B30578100B0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C61264FF-E7C8-4C10-B217-BCCF5C13BA22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C61264FF-E7C8-4C10-B217-BCCF5C13BA22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C61264FF-E7C8-4C10-B217-BCCF5C13BA22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C61264FF-E7C8-4C10-B217-BCCF5C13BA22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA0D132A-632D-4C6E-A40A-C824F981CA20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0D132A-632D-4C6E-A40A-C824F981CA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0D132A-632D-4C6E-A40A-C824F981CA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0D132A-632D-4C6E-A40A-C824F981CA20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1438,6 +1456,9 @@ Global
 		{F01BF3A9-C90C-422E-9E11-09A59F2836F0} = {57A1134A-3928-496C-A152-2C8B528922B7}
 		{0D3BF564-ADE7-49EB-AC40-EAEB46083939} = {57A1134A-3928-496C-A152-2C8B528922B7}
 		{B0994213-C3F5-4D73-BCE8-D9615C627ED9} = {57A1134A-3928-496C-A152-2C8B528922B7}
+		{7984132A-4739-4C6E-BDF5-B30578100B0A} = {57A1134A-3928-496C-A152-2C8B528922B7}
+		{C61264FF-E7C8-4C10-B217-BCCF5C13BA22} = {57A1134A-3928-496C-A152-2C8B528922B7}
+		{BA0D132A-632D-4C6E-A40A-C824F981CA20} = {57A1134A-3928-496C-A152-2C8B528922B7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F33069B6-093C-443C-8255-85C5801FF252}
