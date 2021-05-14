@@ -44,7 +44,6 @@ namespace _13_Kolekce_060_Dictionary_Morse_Zpetny_preklad
         private void FillTable()
         {
             _table = new Dictionary<string, char>();
-            _table[".-"] = 'A';
             _table["-----"] = '0';
             _table[".----"] = '1';
             _table["..---"] = '2';
